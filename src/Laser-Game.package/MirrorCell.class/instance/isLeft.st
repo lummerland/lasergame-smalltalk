@@ -1,3 +1,0 @@
-testing
-isLeft
-	^self leansLeft 
