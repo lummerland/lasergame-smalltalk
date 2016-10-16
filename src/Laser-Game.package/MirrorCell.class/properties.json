@@ -1,0 +1,14 @@
+{
+	"category" : "Laser-Game-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MirrorCell",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
