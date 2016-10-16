@@ -10,5 +10,5 @@
 	"name" : "MirrorCell",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "Cell",
 	"type" : "normal" }

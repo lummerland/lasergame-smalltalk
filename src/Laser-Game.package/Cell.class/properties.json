@@ -6,9 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "TargetCell",
+		"activeSegments",
+		"exitSides" ],
+	"name" : "Cell",
 	"pools" : [
 		 ],
-	"super" : "Cell",
+	"super" : "Object",
 	"type" : "normal" }

@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"activeSegments",
-		"exitSides" ],
+		 ],
 	"name" : "BlankCell",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "Cell",
 	"type" : "normal" }
