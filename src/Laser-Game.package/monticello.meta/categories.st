@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #'Laser-Game-Tests'!
+SystemOrganization addCategory: #'Laser-Game-Model'!
